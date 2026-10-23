@@ -15,7 +15,7 @@ def main():
         elif choice == "3":
             print("\nThank you for visiting EventSphere. -- Please Visit Again --")
             break
-        else: print("Invalid Choice.")
+        else: print(" ! Invalid Choice.")
 
 if __name__ == "__main__":
     main()
